@@ -1,0 +1,60 @@
+# Core LangChain / LCEL
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-google-genai>=2.0.0
+langsmith>=0.1.0
+
+# Gemini / Google AI
+google-generativeai>=0.8.0
+
+# Research Tools
+tavily-python>=0.5.0
+beautifulsoup4>=4.12.0
+requests>=2.32.0
+httpx>=0.28.0
+lxml>=5.3.0
+
+# Parsing / Extraction
+html5lib>=1.1
+readability-lxml>=0.8.1
+markdownify>=0.13.0
+
+# Async / Concurrency
+aiohttp>=3.11.0
+asyncio>=3.4.3
+
+# Environment Variables
+python-dotenv>=1.0.1
+
+# Validation / Data Models
+pydantic>=2.10.0
+
+# Logging / Utilities
+rich>=13.9.0
+tenacity>=9.0.0
+
+# API Backend (optional but recommended)
+fastapi>=0.115.0
+uvicorn>=0.32.0
+
+# React Frontend Integration
+flask-cors>=5.0.0
+
+# Vector / Memory (optional)
+faiss-cpu>=1.9.0
+
+# Token Counting / Text Splitting
+tiktoken>=0.8.0
+
+# Development
+ipython>=8.30.0
+jupyter>=1.1.1
+
+# Testing
+pytest>=8.3.0
+
+# Typing / Code Quality
+mypy>=1.13.0
+black>=24.10.0
+isort>=5.13.0
